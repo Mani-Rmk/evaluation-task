@@ -1,3 +1,4 @@
+python
 spacy
 word2number
 sentence-transformers
