@@ -4,7 +4,7 @@ import pandas as pd
 
 @st.cache_data
 def load_data():
-    return pd.read_csv('/home/bharathi/Documents/vitetech/evalutiontask/data/hotel_dataset_200_cleaned.csv')
+    return pd.read_csv('FILE_PATH')
 
 df = load_data()
 
