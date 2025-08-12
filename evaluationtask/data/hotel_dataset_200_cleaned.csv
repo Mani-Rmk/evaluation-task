@@ -1,0 +1,201 @@
+Hotel Name,Location,Price per Night (USD),Amenities,Category,Rating,Number of Reviews,Room Type,Meal Plan,Distance to Landmark,Country
+Ocean View Retreat,Phuket,82,"Spa, Parking, Restaurant",Beach Resort,3.6,1827,Family Room,Breakfast Only,3 km from Beach,Thailand
+City Lights Inn,Goa,96,"Pool, Gym, Pet-friendly, Restaurant, Beach Access",Boutique Hotel,4.8,1055,Deluxe Suite,Full Board,1 km from City Center,India
+Riverbend Hotel,Cape Town,245,"Bar, Pool, Airport Shuttle, Restaurant",Luxury Resort,4.9,809,Single,Full Board,2 km from Museum,South Africa
+Skyline Suites,Dubai,497,"Pet-friendly, Spa, Gym, Beach Access, Parking, Airport Shuttle",Mountain Lodge,3.4,833,Family Room,Half Board,11 km from Museum,UAE
+Palm Grove Lodge,Goa,55,"Pet-friendly, Pool, Beach Access, Parking",Beach Resort,4.4,1852,Family Room,Half Board,6 km from Shopping Mall,India
+Lakeside Haven,Phuket,409,"Spa, Pool, Beach Access",Beach Resort,5.0,1011,Suite,Half Board,7 km from Beach,Thailand
+Palm Grove Lodge,Bali,307,"Spa, Restaurant, Pet-friendly",Beach Resort,3.4,1630,Single,Full Board,3 km from Shopping Mall,Indonesia
+Golden Sands Resort,Phuket,272,"Airport Shuttle, Pool, Restaurant, Bar, Beach Access, Gym",City Hotel,4.2,1870,Family Room,All Inclusive,12 km from Museum,Thailand
+Riverbend Hotel,Bali,332,"Gym, Free WiFi, Pool, Airport Shuttle, Spa",City Hotel,3.4,543,Deluxe Suite,All Inclusive,8 km from Museum,Indonesia
+Palm Grove Lodge,Bali,356,"Gym, Pet-friendly, Restaurant, Beach Access, Pool",City Hotel,3.9,892,Deluxe Suite,Half Board,1 km from Airport,Indonesia
+Mountain Escape,Phuket,375,"Restaurant, Airport Shuttle, Free WiFi, Beach Access, Spa, Pet-friendly",Boutique Hotel,3.9,1651,Double,Full Board,14 km from Museum,Thailand
+Riverbend Hotel,Sydney,169,"Pet-friendly, Beach Access, Airport Shuttle, Free WiFi, Parking, Restaurant",Mountain Lodge,4.1,243,Suite,Full Board,2 km from City Center,Australia
+Palm Grove Lodge,Bali,305,"Free WiFi, Restaurant, Pet-friendly, Parking, Beach Access, Spa",Mountain Lodge,3.7,1356,Suite,Full Board,14 km from City Center,Indonesia
+Skyline Suites,Sydney,69,"Airport Shuttle, Parking, Pet-friendly, Pool, Free WiFi, Gym",Boutique Hotel,3.8,505,Family Room,Breakfast Only,7 km from Airport,Australia
+Sunset Paradise,Paris,472,"Parking, Restaurant, Gym, Free WiFi, Pool, Bar",Beach Resort,3.4,1458,Suite,Breakfast Only,7 km from Beach,France
+Sunset Paradise,Phuket,172,"Pool, Pet-friendly, Beach Access, Restaurant",Beach Resort,3.6,928,Suite,Breakfast Only,2 km from Airport,Thailand
+Palm Grove Lodge,Dubai,424,"Gym, Airport Shuttle, Pet-friendly",Luxury Resort,3.3,1582,Family Room,Breakfast Only,7 km from Airport,UAE
+Mountain Escape,Goa,248,"Pool, Spa, Pet-friendly, Gym",Beach Resort,4.8,1708,Single,Breakfast Only,2 km from City Center,India
+Palm Grove Lodge,Dubai,252,"Free WiFi, Airport Shuttle, Pool",Luxury Resort,3.4,1269,Single,Half Board,6 km from Beach,UAE
+Palm Grove Lodge,Phuket,381,"Gym, Parking, Restaurant, Airport Shuttle, Free WiFi",Luxury Resort,4.5,1706,Family Room,Breakfast Only,20 km from Shopping Mall,Thailand
+Lakeside Haven,New York,63,"Restaurant, Gym, Pet-friendly, Free WiFi, Spa, Parking",City Hotel,4.4,1733,Deluxe Suite,Half Board,17 km from Airport,USA
+Coastal Breeze,Phuket,322,"Gym, Parking, Restaurant, Pool, Spa",Boutique Hotel,3.2,1988,Deluxe Suite,Breakfast Only,9 km from Airport,Thailand
+Golden Sands Resort,Bali,178,"Gym, Restaurant, Parking, Free WiFi",Boutique Hotel,3.9,383,Suite,Half Board,14 km from Shopping Mall,Indonesia
+Ocean View Retreat,Dubai,190,"Pet-friendly, Beach Access, Free WiFi",Mountain Lodge,4.4,521,Suite,All Inclusive,13 km from Shopping Mall,UAE
+Golden Sands Resort,Cape Town,398,"Bar, Free WiFi, Parking, Gym, Restaurant",Luxury Resort,3.9,1503,Deluxe Suite,All Inclusive,7 km from Airport,South Africa
+Coastal Breeze,Phuket,348,"Gym, Free WiFi, Bar, Parking",Beach Resort,3.4,1033,Single,Breakfast Only,10 km from Beach,Thailand
+Sunset Paradise,Sydney,241,"Restaurant, Gym, Bar, Pet-friendly, Pool",Boutique Hotel,4.9,178,Suite,All Inclusive,1 km from Shopping Mall,Australia
+Mountain Escape,Phuket,190,"Gym, Bar, Pet-friendly",Mountain Lodge,3.1,165,Single,All Inclusive,3 km from Beach,Thailand
+Ocean View Retreat,Dubai,122,"Restaurant, Pool, Beach Access, Pet-friendly",City Hotel,3.1,1440,Family Room,Breakfast Only,11 km from Beach,UAE
+Golden Sands Resort,Cape Town,309,"Gym, Pool, Airport Shuttle, Parking, Beach Access",Beach Resort,3.1,1357,Single,Full Board,20 km from City Center,South Africa
+Mountain Escape,Sydney,348,"Beach Access, Airport Shuttle, Parking, Spa",Mountain Lodge,4.8,1506,Single,Half Board,11 km from City Center,Australia
+Skyline Suites,Tokyo,378,"Free WiFi, Restaurant, Airport Shuttle, Gym",Boutique Hotel,4.5,847,Double,Half Board,11 km from Shopping Mall,Japan
+Skyline Suites,Dubai,111,"Parking, Pet-friendly, Gym, Beach Access, Pool, Free WiFi",Beach Resort,4.3,1386,Single,Half Board,3 km from Shopping Mall,UAE
+Ocean View Retreat,Tokyo,301,"Beach Access, Free WiFi, Pool, Spa, Bar, Airport Shuttle",Mountain Lodge,3.7,525,Deluxe Suite,Breakfast Only,2 km from Beach,Japan
+Riverbend Hotel,Paris,297,"Pet-friendly, Gym, Bar, Beach Access, Restaurant, Spa",City Hotel,4.0,194,Double,Half Board,1 km from Shopping Mall,France
+Sunset Paradise,Rome,249,"Beach Access, Gym, Pet-friendly",Beach Resort,3.1,285,Single,All Inclusive,14 km from City Center,Italy
+Riverbend Hotel,Paris,155,"Spa, Pet-friendly, Pool",Boutique Hotel,3.7,444,Suite,All Inclusive,13 km from Beach,France
+Riverbend Hotel,Tokyo,402,"Pool, Bar, Pet-friendly, Beach Access, Restaurant, Parking",Boutique Hotel,4.3,1852,Double,Breakfast Only,19 km from City Center,Japan
+Coastal Breeze,New York,59,"Spa, Airport Shuttle, Restaurant, Free WiFi",Boutique Hotel,3.1,309,Double,Half Board,4 km from City Center,USA
+Palm Grove Lodge,Paris,468,"Parking, Bar, Restaurant, Free WiFi, Airport Shuttle, Pet-friendly",Luxury Resort,3.3,1562,Single,Half Board,1 km from Beach,France
+Riverbend Hotel,Sydney,107,"Parking, Pool, Pet-friendly, Airport Shuttle",Luxury Resort,4.6,611,Deluxe Suite,Half Board,20 km from Airport,Australia
+Riverbend Hotel,Cape Town,362,"Restaurant, Spa, Free WiFi, Airport Shuttle, Pet-friendly, Pool",Boutique Hotel,3.7,1512,Single,Breakfast Only,10 km from Airport,South Africa
+Palm Grove Lodge,Cape Town,401,"Pet-friendly, Pool, Gym",Beach Resort,3.9,737,Double,Full Board,20 km from Airport,South Africa
+Palm Grove Lodge,Rome,443,"Parking, Pet-friendly, Airport Shuttle, Beach Access, Free WiFi",Luxury Resort,3.3,544,Family Room,All Inclusive,13 km from Shopping Mall,Italy
+Skyline Suites,Bali,304,"Beach Access, Pool, Airport Shuttle",City Hotel,3.4,235,Deluxe Suite,All Inclusive,19 km from Museum,Indonesia
+Sunset Paradise,Bali,109,"Gym, Beach Access, Free WiFi, Parking",Beach Resort,4.2,1519,Double,Half Board,8 km from Museum,Indonesia
+Skyline Suites,Paris,436,"Spa, Parking, Restaurant, Free WiFi, Beach Access, Bar",Beach Resort,4.2,347,Suite,All Inclusive,11 km from Beach,France
+Palm Grove Lodge,Sydney,419,"Restaurant, Spa, Beach Access, Gym",Luxury Resort,3.4,1732,Double,Half Board,17 km from Beach,Australia
+Skyline Suites,Paris,445,"Pet-friendly, Spa, Gym, Free WiFi",Luxury Resort,3.5,1403,Double,All Inclusive,7 km from Museum,France
+Sunset Paradise,Cape Town,119,"Beach Access, Spa, Restaurant, Bar",City Hotel,3.9,805,Single,Breakfast Only,15 km from Shopping Mall,South Africa
+Sunset Paradise,New York,50,"Bar, Gym, Beach Access, Restaurant",City Hotel,4.3,174,Family Room,Breakfast Only,8 km from Museum,USA
+Coastal Breeze,Dubai,480,"Pool, Free WiFi, Pet-friendly, Airport Shuttle, Bar, Gym",City Hotel,4.3,1088,Double,All Inclusive,7 km from Beach,UAE
+Skyline Suites,Tokyo,500,"Bar, Airport Shuttle, Parking",City Hotel,3.6,116,Family Room,Breakfast Only,17 km from Shopping Mall,Japan
+Golden Sands Resort,Bali,221,"Airport Shuttle, Pet-friendly, Restaurant, Free WiFi, Beach Access, Spa",Luxury Resort,4.7,1737,Suite,All Inclusive,14 km from Beach,Indonesia
+Riverbend Hotel,New York,405,"Restaurant, Beach Access, Gym, Airport Shuttle",Boutique Hotel,4.0,550,Double,Breakfast Only,16 km from Shopping Mall,USA
+Golden Sands Resort,Tokyo,135,"Spa, Pet-friendly, Restaurant",Luxury Resort,3.4,1101,Suite,Half Board,9 km from Shopping Mall,Japan
+Coastal Breeze,New York,143,"Spa, Airport Shuttle, Pet-friendly, Free WiFi",Boutique Hotel,3.0,1724,Suite,Full Board,16 km from Museum,USA
+City Lights Inn,Tokyo,336,"Spa, Parking, Pool, Gym, Beach Access, Restaurant",Mountain Lodge,3.2,1755,Deluxe Suite,Half Board,17 km from Beach,Japan
+Golden Sands Resort,Cape Town,354,"Beach Access, Airport Shuttle, Spa, Gym, Pet-friendly",Luxury Resort,3.2,597,Family Room,Half Board,8 km from Shopping Mall,South Africa
+Sunset Paradise,Cape Town,97,"Pet-friendly, Bar, Gym, Beach Access, Pool",Boutique Hotel,4.7,1752,Suite,Full Board,12 km from City Center,South Africa
+Skyline Suites,Cape Town,254,"Beach Access, Free WiFi, Restaurant, Bar",Boutique Hotel,4.4,1686,Family Room,Breakfast Only,20 km from Airport,South Africa
+Palm Grove Lodge,Phuket,348,"Pool, Restaurant, Pet-friendly, Free WiFi, Gym",Luxury Resort,4.4,1932,Double,All Inclusive,10 km from Airport,Thailand
+Lakeside Haven,Bali,455,"Pet-friendly, Bar, Parking",Beach Resort,4.4,476,Family Room,Full Board,20 km from Beach,Indonesia
+Lakeside Haven,Bali,199,"Airport Shuttle, Pool, Pet-friendly, Restaurant",Luxury Resort,4.8,305,Double,All Inclusive,5 km from Museum,Indonesia
+Sunset Paradise,Bali,57,"Airport Shuttle, Bar, Restaurant, Pool, Parking, Beach Access",Boutique Hotel,5.0,1471,Deluxe Suite,Breakfast Only,12 km from Shopping Mall,Indonesia
+Ocean View Retreat,Phuket,491,"Bar, Pool, Beach Access",Luxury Resort,3.6,1173,Family Room,Full Board,17 km from Museum,Thailand
+Riverbend Hotel,Sydney,52,"Bar, Restaurant, Beach Access",Mountain Lodge,4.4,1053,Suite,All Inclusive,9 km from Shopping Mall,Australia
+Mountain Escape,Phuket,451,"Airport Shuttle, Gym, Beach Access",Boutique Hotel,4.5,1494,Deluxe Suite,Half Board,4 km from City Center,Thailand
+Sunset Paradise,Phuket,313,"Free WiFi, Airport Shuttle, Spa, Bar",Mountain Lodge,4.5,723,Family Room,Breakfast Only,20 km from Museum,Thailand
+Lakeside Haven,Tokyo,57,"Pet-friendly, Bar, Gym, Free WiFi",Mountain Lodge,3.6,1203,Single,All Inclusive,11 km from Airport,Japan
+City Lights Inn,Bali,136,"Airport Shuttle, Gym, Beach Access, Parking, Restaurant",Beach Resort,3.5,1683,Single,All Inclusive,10 km from Shopping Mall,Indonesia
+Skyline Suites,New York,177,"Gym, Bar, Spa, Airport Shuttle, Pool, Beach Access",Luxury Resort,4.2,226,Family Room,Breakfast Only,14 km from Shopping Mall,USA
+Riverbend Hotel,New York,184,"Gym, Restaurant, Airport Shuttle, Spa, Pool, Parking",Beach Resort,4.4,291,Suite,Half Board,15 km from Shopping Mall,USA
+Coastal Breeze,Bali,445,"Beach Access, Spa, Parking",City Hotel,3.8,262,Family Room,All Inclusive,14 km from Shopping Mall,Indonesia
+Palm Grove Lodge,Bali,205,"Bar, Parking, Airport Shuttle, Pool, Gym",Luxury Resort,3.4,356,Single,All Inclusive,6 km from Museum,Indonesia
+Riverbend Hotel,Tokyo,208,"Pool, Spa, Restaurant, Bar, Parking",Beach Resort,3.1,899,Single,Breakfast Only,19 km from Shopping Mall,Japan
+Palm Grove Lodge,Dubai,380,"Free WiFi, Spa, Beach Access, Parking, Airport Shuttle, Gym",Mountain Lodge,3.1,465,Double,Breakfast Only,9 km from Museum,UAE
+Sunset Paradise,New York,407,"Airport Shuttle, Free WiFi, Bar, Restaurant",Mountain Lodge,4.7,940,Deluxe Suite,Half Board,6 km from Airport,USA
+Ocean View Retreat,Dubai,399,"Free WiFi, Airport Shuttle, Restaurant",Boutique Hotel,4.9,1816,Family Room,Breakfast Only,16 km from City Center,UAE
+Golden Sands Resort,Bali,170,"Pool, Beach Access, Airport Shuttle",City Hotel,4.2,1286,Suite,Full Board,13 km from Beach,Indonesia
+Sunset Paradise,Sydney,381,"Restaurant, Airport Shuttle, Free WiFi, Parking, Pet-friendly, Beach Access",Luxury Resort,4.9,870,Single,Full Board,19 km from City Center,Australia
+Sunset Paradise,Phuket,53,"Free WiFi, Beach Access, Airport Shuttle",Boutique Hotel,4.7,1643,Single,Full Board,12 km from Museum,Thailand
+Skyline Suites,Dubai,207,"Free WiFi, Pool, Beach Access, Spa",Mountain Lodge,4.3,398,Suite,All Inclusive,15 km from Museum,UAE
+Ocean View Retreat,Sydney,248,"Free WiFi, Beach Access, Gym, Restaurant, Pool",Boutique Hotel,3.1,705,Single,Breakfast Only,15 km from Beach,Australia
+Lakeside Haven,Bali,99,"Free WiFi, Restaurant, Bar, Gym, Airport Shuttle, Pet-friendly",Mountain Lodge,4.2,1133,Deluxe Suite,All Inclusive,11 km from Museum,Indonesia
+Ocean View Retreat,Dubai,359,"Bar, Free WiFi, Gym, Airport Shuttle, Pet-friendly",Mountain Lodge,3.6,1892,Single,Half Board,12 km from Shopping Mall,UAE
+Palm Grove Lodge,Phuket,195,"Free WiFi, Restaurant, Airport Shuttle, Bar",Boutique Hotel,4.5,1747,Suite,Half Board,2 km from Beach,Thailand
+Mountain Escape,Tokyo,479,"Spa, Free WiFi, Parking, Restaurant, Bar, Airport Shuttle",Beach Resort,3.9,643,Suite,Full Board,16 km from Beach,Japan
+Golden Sands Resort,Sydney,178,"Pet-friendly, Pool, Bar, Free WiFi, Gym, Airport Shuttle",Beach Resort,4.4,1964,Single,Half Board,1 km from City Center,Australia
+Riverbend Hotel,Bali,85,"Beach Access, Parking, Bar, Airport Shuttle",City Hotel,4.6,190,Deluxe Suite,All Inclusive,7 km from Museum,Indonesia
+Lakeside Haven,Sydney,376,"Free WiFi, Spa, Airport Shuttle, Gym",Luxury Resort,4.1,871,Family Room,All Inclusive,2 km from City Center,Australia
+Palm Grove Lodge,Paris,232,"Pet-friendly, Parking, Spa, Bar",Luxury Resort,3.2,1584,Suite,All Inclusive,17 km from Airport,France
+Ocean View Retreat,Bali,215,"Free WiFi, Gym, Pool, Beach Access, Pet-friendly, Restaurant",Luxury Resort,3.8,223,Family Room,Half Board,2 km from Museum,Indonesia
+Palm Grove Lodge,Dubai,183,"Beach Access, Spa, Pool, Gym, Bar",Boutique Hotel,3.7,1920,Deluxe Suite,All Inclusive,15 km from Airport,UAE
+Palm Grove Lodge,New York,407,"Airport Shuttle, Bar, Spa, Pet-friendly, Gym, Free WiFi",Luxury Resort,4.0,973,Deluxe Suite,Half Board,6 km from City Center,USA
+Lakeside Haven,Sydney,186,"Gym, Beach Access, Spa, Bar, Restaurant, Pet-friendly",Beach Resort,4.2,1499,Single,All Inclusive,1 km from Beach,Australia
+Sunset Paradise,New York,455,"Gym, Airport Shuttle, Parking, Restaurant, Bar",Luxury Resort,4.5,368,Double,All Inclusive,8 km from Museum,USA
+Sunset Paradise,Goa,93,"Pet-friendly, Spa, Restaurant",Boutique Hotel,3.4,787,Double,Full Board,14 km from City Center,India
+Coastal Breeze,Phuket,62,"Beach Access, Parking, Free WiFi, Restaurant, Airport Shuttle",Boutique Hotel,3.3,1445,Single,Breakfast Only,20 km from Beach,Thailand
+Riverbend Hotel,Dubai,108,"Free WiFi, Pet-friendly, Spa",Mountain Lodge,5.0,250,Suite,Breakfast Only,14 km from Airport,UAE
+City Lights Inn,Bali,386,"Gym, Airport Shuttle, Pet-friendly, Beach Access, Pool, Bar",Luxury Resort,4.0,1404,Double,Breakfast Only,1 km from City Center,Indonesia
+Palm Grove Lodge,Tokyo,177,"Free WiFi, Beach Access, Restaurant, Parking, Gym",Luxury Resort,3.6,309,Deluxe Suite,All Inclusive,1 km from City Center,Japan
+Riverbend Hotel,Sydney,105,"Pool, Airport Shuttle, Gym, Beach Access, Free WiFi",Boutique Hotel,3.9,1710,Suite,Half Board,18 km from Museum,Australia
+Lakeside Haven,Phuket,233,"Restaurant, Free WiFi, Pet-friendly, Spa, Parking",Boutique Hotel,4.0,1392,Suite,Half Board,2 km from Shopping Mall,Thailand
+Coastal Breeze,Paris,396,"Spa, Airport Shuttle, Parking, Restaurant",Mountain Lodge,3.1,1982,Single,Half Board,18 km from Beach,France
+Skyline Suites,Cape Town,123,"Pool, Beach Access, Gym, Free WiFi, Pet-friendly, Bar",Beach Resort,3.4,1266,Single,Half Board,9 km from Museum,South Africa
+Coastal Breeze,Sydney,204,"Restaurant, Beach Access, Parking, Pool, Spa, Bar",Mountain Lodge,4.7,464,Suite,All Inclusive,18 km from City Center,Australia
+Palm Grove Lodge,Paris,359,"Gym, Free WiFi, Parking, Pool",City Hotel,5.0,399,Suite,Half Board,13 km from Shopping Mall,France
+Coastal Breeze,Rome,366,"Gym, Beach Access, Airport Shuttle",Mountain Lodge,3.1,480,Suite,Full Board,8 km from Shopping Mall,Italy
+Palm Grove Lodge,Tokyo,173,"Free WiFi, Bar, Pet-friendly, Airport Shuttle, Parking, Beach Access",Mountain Lodge,3.7,595,Deluxe Suite,Half Board,4 km from Beach,Japan
+Ocean View Retreat,Sydney,158,"Beach Access, Gym, Pool, Restaurant",City Hotel,4.3,506,Single,Half Board,17 km from Shopping Mall,Australia
+Coastal Breeze,New York,270,"Airport Shuttle, Gym, Pet-friendly, Pool",Luxury Resort,3.9,1418,Single,Full Board,7 km from Airport,USA
+Palm Grove Lodge,Dubai,121,"Spa, Pool, Restaurant, Free WiFi, Pet-friendly, Gym",Beach Resort,3.3,1667,Family Room,Half Board,1 km from Beach,UAE
+Ocean View Retreat,Cape Town,341,"Gym, Parking, Beach Access, Free WiFi, Airport Shuttle",Mountain Lodge,3.7,1178,Single,All Inclusive,2 km from City Center,South Africa
+Palm Grove Lodge,Goa,210,"Free WiFi, Bar, Parking, Airport Shuttle",Boutique Hotel,3.9,877,Suite,Full Board,13 km from Shopping Mall,India
+City Lights Inn,Phuket,100,"Spa, Beach Access, Airport Shuttle, Parking, Bar",City Hotel,3.2,834,Single,Full Board,9 km from City Center,Thailand
+Lakeside Haven,Sydney,493,"Pet-friendly, Airport Shuttle, Restaurant, Free WiFi, Spa, Bar",Mountain Lodge,3.7,1744,Suite,Breakfast Only,13 km from City Center,Australia
+City Lights Inn,Sydney,167,"Pool, Beach Access, Spa",Boutique Hotel,4.2,1247,Single,All Inclusive,17 km from Beach,Australia
+Mountain Escape,Sydney,180,"Beach Access, Parking, Gym, Pool, Pet-friendly, Airport Shuttle",Mountain Lodge,4.3,1511,Deluxe Suite,All Inclusive,10 km from Beach,Australia
+Mountain Escape,Rome,405,"Pet-friendly, Bar, Airport Shuttle, Restaurant, Gym, Parking",City Hotel,4.8,1909,Deluxe Suite,Breakfast Only,7 km from Shopping Mall,Italy
+Mountain Escape,Dubai,308,"Pool, Beach Access, Free WiFi, Gym",Luxury Resort,4.2,187,Single,All Inclusive,8 km from Beach,UAE
+City Lights Inn,New York,290,"Bar, Pool, Gym, Free WiFi, Pet-friendly, Spa",Boutique Hotel,3.3,1272,Double,All Inclusive,7 km from Airport,USA
+Lakeside Haven,Sydney,387,"Pool, Airport Shuttle, Spa, Pet-friendly, Beach Access, Free WiFi",Mountain Lodge,4.6,1361,Double,Breakfast Only,8 km from Beach,Australia
+Skyline Suites,Sydney,306,"Pool, Airport Shuttle, Pet-friendly",Luxury Resort,3.1,193,Single,All Inclusive,18 km from Beach,Australia
+Sunset Paradise,Rome,311,"Beach Access, Restaurant, Airport Shuttle, Spa",Beach Resort,4.1,565,Single,All Inclusive,14 km from Shopping Mall,Italy
+Palm Grove Lodge,Cape Town,357,"Parking, Beach Access, Restaurant, Airport Shuttle, Pet-friendly, Gym",City Hotel,4.3,1740,Single,All Inclusive,13 km from Shopping Mall,South Africa
+Riverbend Hotel,Paris,127,"Restaurant, Spa, Beach Access",Boutique Hotel,3.6,1605,Single,Full Board,20 km from Airport,France
+Palm Grove Lodge,Rome,431,"Parking, Restaurant, Pet-friendly",Beach Resort,4.4,1883,Single,All Inclusive,19 km from Museum,Italy
+Palm Grove Lodge,Phuket,220,"Parking, Bar, Gym, Pool, Spa",City Hotel,3.1,1786,Single,Full Board,17 km from Museum,Thailand
+Mountain Escape,Tokyo,381,"Free WiFi, Spa, Pool, Airport Shuttle, Bar, Gym",Boutique Hotel,4.8,1644,Family Room,Breakfast Only,13 km from Shopping Mall,Japan
+City Lights Inn,Cape Town,445,"Free WiFi, Parking, Beach Access",City Hotel,3.4,244,Family Room,All Inclusive,5 km from City Center,South Africa
+Sunset Paradise,Phuket,475,"Spa, Gym, Pool, Pet-friendly, Beach Access, Bar",Boutique Hotel,3.0,712,Suite,Full Board,20 km from Airport,Thailand
+Coastal Breeze,New York,146,"Spa, Gym, Pool, Restaurant, Parking",City Hotel,4.8,766,Family Room,Breakfast Only,2 km from Airport,USA
+Riverbend Hotel,Bali,418,"Restaurant, Bar, Pool",Mountain Lodge,4.0,1422,Suite,Half Board,10 km from Museum,Indonesia
+City Lights Inn,Tokyo,479,"Bar, Pet-friendly, Beach Access, Spa, Gym, Restaurant",Luxury Resort,3.4,1466,Single,Half Board,8 km from Shopping Mall,Japan
+Golden Sands Resort,Cape Town,181,"Pool, Bar, Gym, Beach Access",Mountain Lodge,4.9,733,Double,Breakfast Only,18 km from Shopping Mall,South Africa
+Sunset Paradise,Cape Town,363,"Free WiFi, Pool, Beach Access",Beach Resort,4.3,1437,Double,Half Board,15 km from City Center,South Africa
+Lakeside Haven,Sydney,67,"Restaurant, Parking, Spa, Airport Shuttle",City Hotel,4.3,1135,Double,All Inclusive,11 km from Museum,Australia
+Lakeside Haven,Bali,172,"Airport Shuttle, Bar, Pool, Free WiFi",City Hotel,3.7,835,Single,Breakfast Only,12 km from Shopping Mall,Indonesia
+Golden Sands Resort,Goa,132,"Gym, Free WiFi, Restaurant, Pool",Mountain Lodge,3.9,709,Single,Breakfast Only,1 km from Beach,India
+Sunset Paradise,Tokyo,419,"Beach Access, Free WiFi, Bar, Parking",City Hotel,4.3,508,Deluxe Suite,All Inclusive,15 km from Museum,Japan
+Skyline Suites,Rome,327,"Parking, Bar, Airport Shuttle, Pet-friendly, Gym, Restaurant",Beach Resort,3.1,343,Single,Breakfast Only,16 km from Airport,Italy
+Coastal Breeze,Paris,396,"Bar, Spa, Pet-friendly, Pool, Beach Access",City Hotel,4.8,438,Family Room,Full Board,17 km from Airport,France
+Palm Grove Lodge,Phuket,469,"Parking, Pool, Free WiFi, Gym, Spa",City Hotel,4.1,258,Deluxe Suite,Breakfast Only,5 km from City Center,Thailand
+Golden Sands Resort,Bali,460,"Spa, Pet-friendly, Restaurant, Bar",Beach Resort,4.9,1396,Double,All Inclusive,12 km from Beach,Indonesia
+Lakeside Haven,Tokyo,196,"Pet-friendly, Gym, Beach Access, Spa, Bar, Restaurant",Boutique Hotel,4.1,1050,Single,Breakfast Only,7 km from Shopping Mall,Japan
+Sunset Paradise,Goa,69,"Free WiFi, Pet-friendly, Airport Shuttle, Spa, Bar, Restaurant",Mountain Lodge,3.9,1995,Family Room,Full Board,9 km from Airport,India
+Ocean View Retreat,Phuket,55,"Restaurant, Beach Access, Free WiFi",Boutique Hotel,3.1,1065,Suite,Half Board,14 km from Beach,Thailand
+Sunset Paradise,Goa,189,"Pool, Parking, Restaurant, Pet-friendly, Gym",Mountain Lodge,3.2,728,Family Room,All Inclusive,20 km from Beach,India
+Golden Sands Resort,Phuket,466,"Free WiFi, Airport Shuttle, Spa",Beach Resort,3.2,978,Deluxe Suite,All Inclusive,19 km from Museum,Thailand
+Lakeside Haven,Goa,449,"Free WiFi, Airport Shuttle, Restaurant",Luxury Resort,4.9,225,Family Room,All Inclusive,4 km from Museum,India
+Sunset Paradise,Goa,313,"Pool, Bar, Spa",City Hotel,3.5,1866,Single,Breakfast Only,8 km from Shopping Mall,India
+Riverbend Hotel,Bali,221,"Bar, Spa, Pet-friendly, Gym, Parking",Mountain Lodge,4.7,1303,Family Room,Half Board,2 km from Shopping Mall,Indonesia
+Lakeside Haven,New York,467,"Spa, Free WiFi, Pet-friendly, Beach Access, Pool, Restaurant",Luxury Resort,4.9,841,Family Room,Breakfast Only,15 km from Museum,USA
+Lakeside Haven,Phuket,340,"Spa, Parking, Airport Shuttle",Beach Resort,4.6,1324,Deluxe Suite,All Inclusive,7 km from Airport,Thailand
+Coastal Breeze,Cape Town,446,"Gym, Spa, Restaurant, Beach Access, Bar",Boutique Hotel,3.2,821,Single,All Inclusive,3 km from Museum,South Africa
+Palm Grove Lodge,Dubai,262,"Beach Access, Restaurant, Pool, Pet-friendly, Spa",Mountain Lodge,3.9,672,Suite,Full Board,14 km from Airport,UAE
+Sunset Paradise,Phuket,455,"Bar, Airport Shuttle, Free WiFi, Restaurant, Pet-friendly, Parking",City Hotel,4.9,766,Suite,Breakfast Only,14 km from Shopping Mall,Thailand
+Palm Grove Lodge,New York,216,"Bar, Free WiFi, Gym, Pet-friendly, Spa",Mountain Lodge,3.5,1481,Deluxe Suite,Half Board,4 km from Museum,USA
+Sunset Paradise,New York,491,"Pet-friendly, Parking, Spa, Gym",Mountain Lodge,3.5,698,Suite,All Inclusive,18 km from City Center,USA
+Sunset Paradise,Rome,387,"Bar, Spa, Airport Shuttle, Parking",City Hotel,3.2,162,Double,Half Board,8 km from Airport,Italy
+City Lights Inn,Tokyo,181,"Bar, Pet-friendly, Pool, Parking",City Hotel,4.7,1577,Single,Half Board,11 km from Shopping Mall,Japan
+Palm Grove Lodge,Rome,437,"Parking, Free WiFi, Pool, Restaurant",Beach Resort,4.4,1846,Family Room,Full Board,20 km from Airport,Italy
+Lakeside Haven,Cape Town,500,"Beach Access, Airport Shuttle, Pool, Parking, Pet-friendly",Luxury Resort,3.9,911,Double,Breakfast Only,13 km from City Center,South Africa
+Coastal Breeze,Phuket,241,"Spa, Gym, Pool, Bar, Pet-friendly, Restaurant",Mountain Lodge,5.0,1524,Family Room,Full Board,16 km from Shopping Mall,Thailand
+Golden Sands Resort,Paris,430,"Beach Access, Restaurant, Spa, Parking, Airport Shuttle, Free WiFi",Mountain Lodge,3.7,218,Deluxe Suite,Half Board,5 km from Airport,France
+Palm Grove Lodge,Sydney,176,"Parking, Bar, Restaurant, Pool, Free WiFi",Boutique Hotel,4.7,377,Suite,All Inclusive,18 km from City Center,Australia
+Palm Grove Lodge,Goa,500,"Restaurant, Pet-friendly, Bar, Parking, Beach Access",City Hotel,3.3,1657,Deluxe Suite,Breakfast Only,8 km from Museum,India
+Golden Sands Resort,Phuket,316,"Restaurant, Airport Shuttle, Parking, Bar, Pet-friendly, Free WiFi",Beach Resort,4.3,683,Single,Full Board,4 km from Shopping Mall,Thailand
+Riverbend Hotel,Bali,205,"Pool, Free WiFi, Parking",Luxury Resort,3.3,896,Deluxe Suite,Breakfast Only,16 km from Airport,Indonesia
+Skyline Suites,Bali,379,"Bar, Pool, Beach Access, Gym",Luxury Resort,4.9,894,Single,Breakfast Only,13 km from Beach,Indonesia
+Ocean View Retreat,Tokyo,173,"Spa, Airport Shuttle, Bar, Pet-friendly, Pool",Beach Resort,3.1,745,Deluxe Suite,Breakfast Only,17 km from Shopping Mall,Japan
+Coastal Breeze,Cape Town,498,"Free WiFi, Spa, Airport Shuttle",Luxury Resort,4.6,1811,Family Room,Full Board,3 km from Beach,South Africa
+Sunset Paradise,Paris,336,"Restaurant, Bar, Parking, Pet-friendly, Pool",City Hotel,3.2,1567,Deluxe Suite,Half Board,18 km from Airport,France
+Sunset Paradise,Bali,93,"Restaurant, Gym, Pet-friendly",Boutique Hotel,4.9,1285,Family Room,Breakfast Only,1 km from Beach,Indonesia
+Palm Grove Lodge,Tokyo,73,"Spa, Parking, Bar, Pet-friendly, Airport Shuttle, Free WiFi",Boutique Hotel,3.3,186,Suite,Half Board,7 km from Beach,Japan
+Sunset Paradise,Sydney,306,"Pet-friendly, Gym, Pool",Beach Resort,4.8,1783,Family Room,All Inclusive,16 km from Beach,Australia
+City Lights Inn,Cape Town,202,"Pet-friendly, Bar, Airport Shuttle",Beach Resort,3.3,739,Double,Full Board,7 km from Airport,South Africa
+Riverbend Hotel,New York,252,"Spa, Airport Shuttle, Bar",Mountain Lodge,3.8,1039,Suite,All Inclusive,10 km from Airport,USA
+Mountain Escape,Phuket,422,"Restaurant, Parking, Gym",Boutique Hotel,4.4,1209,Double,Breakfast Only,2 km from Beach,Thailand
+Ocean View Retreat,Dubai,278,"Restaurant, Spa, Pool",Mountain Lodge,4.3,987,Double,Full Board,3 km from Shopping Mall,UAE
+Riverbend Hotel,Tokyo,441,"Pet-friendly, Spa, Bar",City Hotel,4.2,1779,Deluxe Suite,All Inclusive,18 km from Museum,Japan
+Sunset Paradise,Paris,266,"Airport Shuttle, Free WiFi, Restaurant",Mountain Lodge,3.9,137,Family Room,Breakfast Only,3 km from Beach,France
+Coastal Breeze,Dubai,397,"Spa, Restaurant, Bar, Free WiFi",Boutique Hotel,4.9,1113,Single,Breakfast Only,14 km from City Center,UAE
+Coastal Breeze,Cape Town,57,"Restaurant, Pet-friendly, Beach Access, Bar",Beach Resort,4.7,1222,Family Room,Half Board,17 km from Airport,South Africa
+Lakeside Haven,Paris,455,"Restaurant, Pool, Gym",Mountain Lodge,4.8,1219,Single,Full Board,16 km from Shopping Mall,France
+City Lights Inn,Tokyo,470,"Parking, Airport Shuttle, Bar",Mountain Lodge,3.4,168,Deluxe Suite,All Inclusive,15 km from Airport,Japan
+Riverbend Hotel,Rome,435,"Pool, Pet-friendly, Free WiFi",Mountain Lodge,4.4,1560,Single,Breakfast Only,5 km from Airport,Italy
+Golden Sands Resort,Rome,308,"Bar, Beach Access, Parking, Spa, Gym, Airport Shuttle",Luxury Resort,3.6,1159,Suite,Breakfast Only,14 km from Beach,Italy
+Golden Sands Resort,Cape Town,265,"Free WiFi, Parking, Spa, Pet-friendly, Gym, Airport Shuttle",Luxury Resort,3.0,229,Double,All Inclusive,9 km from Beach,South Africa
+Mountain Escape,Sydney,279,"Free WiFi, Airport Shuttle, Bar, Restaurant, Spa, Beach Access",Boutique Hotel,4.7,870,Family Room,All Inclusive,7 km from Beach,Australia
+Skyline Suites,Bali,191,"Pool, Parking, Spa, Free WiFi",Luxury Resort,3.4,798,Double,Full Board,18 km from Beach,Indonesia
+Lakeside Haven,Goa,160,"Beach Access, Pool, Gym, Parking",City Hotel,4.7,1642,Deluxe Suite,Half Board,14 km from City Center,India
+Mountain Escape,Tokyo,493,"Beach Access, Parking, Airport Shuttle",Luxury Resort,4.5,724,Single,Half Board,19 km from Museum,Japan
+City Lights Inn,Phuket,288,"Pet-friendly, Restaurant, Gym",Luxury Resort,3.1,149,Suite,Full Board,14 km from Museum,Thailand
+Mountain Escape,Goa,412,"Parking, Pool, Gym, Restaurant, Spa, Free WiFi",Beach Resort,4.4,1526,Double,Full Board,7 km from Shopping Mall,India
+Skyline Suites,Cape Town,430,"Free WiFi, Parking, Pool",Beach Resort,4.6,1620,Family Room,Full Board,3 km from Shopping Mall,South Africa
+Sunset Paradise,Cape Town,172,"Airport Shuttle, Beach Access, Parking, Spa, Pet-friendly, Gym",Luxury Resort,4.5,1046,Deluxe Suite,All Inclusive,6 km from Museum,South Africa
+Coastal Breeze,New York,474,"Pet-friendly, Free WiFi, Parking, Pool, Beach Access, Spa",Luxury Resort,3.2,192,Deluxe Suite,Half Board,12 km from City Center,USA
+Coastal Breeze,Sydney,340,"Pool, Beach Access, Restaurant",Boutique Hotel,4.3,1809,Deluxe Suite,Half Board,4 km from Shopping Mall,Australia

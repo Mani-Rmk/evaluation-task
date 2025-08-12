@@ -1,0 +1,5 @@
+spacy
+word2number
+sentence-transformers
+streamlit
+pandas
